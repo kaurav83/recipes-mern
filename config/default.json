@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://vitaliy123:vitaliy123@recipesorg.gykjr.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
